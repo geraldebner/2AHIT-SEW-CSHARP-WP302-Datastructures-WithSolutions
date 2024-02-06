@@ -16,4 +16,12 @@
     <PackageReference Include="coverlet.collector" Version="3.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\00-Stadium\00-Stadium.csproj" />
+    <ProjectReference Include="..\00-Team\00-Team.csproj" />
+    <ProjectReference Include="..\02-TeamList\02-TeamList.csproj" />
+    <ProjectReference Include="..\04-TeamString\04-TeamString.csproj" />
+    <ProjectReference Include="..\03-TeamDictionary\03-TeamDictionary.csproj" />
+  </ItemGroup>
+
 </Project>

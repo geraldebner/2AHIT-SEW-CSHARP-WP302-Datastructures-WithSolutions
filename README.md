@@ -1,4 +1,7 @@
-# 2AHIT-SEW-WP3
+# 2AHIT-SEW-WP302
+
+Workpackage 302 ist eine Erweiterung von WP301. Es können vom WP301 Elemente wiederverwendet werden!
+
 
 ## Datenstrukturen
 
@@ -16,7 +19,7 @@ Die in diesem Bereich geforderten Voraussetzungen sind __notwendige__ Kriterien 
 * Sämtlicher Programmcode __muss__ im Verzeichnis 00-05 liegen.
 * Eine Datei darf nur eine Klasse beinhalten. Der Dateiname muss der Klasse entsprechen.
 * Die Sprache der Benutzerinteraktion __muss__ Englisch sein. Sämtliche Bezeichner im Programmcode müssen, wie im Codingstandard ausgeführt, Englisch sein.
-* Der Namespace der gesammten Applikation __muss__ *WP301* sein
+* Der Namespace der gesammten Applikation __muss__ *WP302* sein
 * Sämtliche Bezeichner im Programmcode müssen, wie im Codingstandard ausgeführt, Englisch sein.
 
 

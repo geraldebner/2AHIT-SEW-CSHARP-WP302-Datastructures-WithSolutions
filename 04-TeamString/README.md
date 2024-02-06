@@ -12,6 +12,8 @@ Es soll ein Programm erstellt werden, um Teilnehmerlisten des Turniers (Beispiel
 * eine Methode / Funktion, um jeweils den Nachnamen von allen Spielern eines Teams der Turnierliste (siehe Beispiel 01) alphabetisch aufsteigend sortiert in Großbuchstaben und Rückennummer auszugeben. 
 
 
+
+
 ## User Menü
 
 Implementieren Sie in der _main_ Funktion eine Schleife wo die oben Angeführten Methoden ausgewählt und aufgerufen werden können.
